@@ -50,7 +50,7 @@ imports:
   version: a93b200c26cbae3bb09dd0dc2c7c7fe1468a034a
   subpackages:
   - rotator
-- name: golang.org/x/crypto
+- name: github.com/golang/crypto
   version: 122d919ec1efcfb58483215da23f815853e24b81
   subpackages:
   - ripemd160
